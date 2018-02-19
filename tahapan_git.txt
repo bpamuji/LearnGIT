@@ -1,6 +1,0 @@
-1. git init
-2. git add nama file
-3. git commit -m  'comment'
-4. git remote add origin 'alamat-repo'
-5. git push -u origin master
-6. git pull origin master
