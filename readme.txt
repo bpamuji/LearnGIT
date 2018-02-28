@@ -15,5 +15,6 @@ git log = melihat informasi history project atau file
 git show = untuk menampilkan informasi detail tentang commit terakhir
 git diff id1..id2 = untuk menampilakn 2 perubahan antara commit 1 dan 2
 git diff HEAD~1..HEAD~2 = menampilkan perbedaan antara state repo commit 1 and state repo commit 2
-git pull: untuk mendownload perubahan yang ada di repo pusat
-
+git pull= untuk mendownload perubahan yang ada di repo pusat
+git branch branch_baru= membuat branch baru gunanya adalah untuk kolaborasi antar developer
+di suatu project
