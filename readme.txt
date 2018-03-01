@@ -18,3 +18,4 @@ git diff HEAD~1..HEAD~2 = menampilkan perbedaan antara state repo commit 1 and s
 git pull= untuk mendownload perubahan yang ada di repo pusat
 git branch branch_baru= membuat branch baru gunanya adalah untuk kolaborasi antar developer
 di suatu project
+
